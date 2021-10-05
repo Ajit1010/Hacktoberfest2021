@@ -409,6 +409,10 @@ Github: [Vanshika goel](https://github.com/Vanshikagoel0012)
 - Bio: B.Tech Computer Science Engineering, Open Source Enthusiast, DevOps Contributor
 - GitHub: [Gaurav Maheshwari](https://github.com/gaurav24072002)
 
+#### Name: Ajit Bhatiya
+- Place: Haldia, West Bengal, India
+- Bio: B.Tech Computer Science Engineering
+- GitHub: [Ajit1010](https://github.com/Ajit1010)
 
 
 
